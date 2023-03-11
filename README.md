@@ -1,3 +1,3 @@
 # Finanza
 
-https://luan-thanhh.github.io/finanza/
+https://luan-thnh.github.io/finanza/
